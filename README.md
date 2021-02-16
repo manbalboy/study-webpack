@@ -20,4 +20,4 @@
 ## License & Copyright
 
 **MIT License** <br>
-Copyright © 2020 [Captain Pangyo](https://joshua1988.github.io/)
+Copyright © 2021 [manbalboy](https://github.com/manbalboy)
