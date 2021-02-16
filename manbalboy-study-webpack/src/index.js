@@ -1,5 +1,6 @@
 // ES6
-// import _ from 'lodash';
+import _ from 'lodash';
+
 // ES5
 // var _ = require('lodash');
 // var path = require('path');
