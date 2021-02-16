@@ -17264,19 +17264,19 @@ __webpack_require__.r(__webpack_exports__);
 
 // ES5
 // var _ = require('lodash');
-// var path = require('path');
 
 function component() {
-  var element = document.createElement('div');
+    var element = document.createElement("div");
 
-  /* lodash is required for the next line to work */
-  element.innerHTML = lodash__WEBPACK_IMPORTED_MODULE_0___default().join(['Hello','webpack'], ' ');
-  // element.innerHTML = 'Hello webpack';
+    /* lodash is required for the next line to work */
+    element.innerHTML = lodash__WEBPACK_IMPORTED_MODULE_0___default().join(["Hello", "webpack"], " ");
+    // element.innerHTML = 'Hello webpack';
 
-  return element;
+    return element;
 }
 
 document.body.appendChild(component());
+
 })();
 
 /******/ })()
